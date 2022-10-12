@@ -1,0 +1,5 @@
+pipreqs --encoding=utf8
+pyinstaller --onefile main.py
+.\venv\Scripts\activate
+
+.\env\Scripts\activate
