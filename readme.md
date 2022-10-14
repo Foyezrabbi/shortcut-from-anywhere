@@ -7,7 +7,7 @@
 <p>.\venv\Scripts\activate<\p>
 
 
-<p>infiniterabbiex@gmail.com<\p>
+<p>infiniterabbiex@gmail.com
 
-<p>api = 53d32b09-27b4-45f7-a3d7-fadb243a5723 (lol)<\p>
+<p>api = 53d32b09-27b4-45f7-a3d7-fadb243a5723 (lol)
 
