@@ -9,5 +9,7 @@ python -m venv <p>
 
 infiniterabbiex@gmail.com
 
-```api = 53d32b09-27b4-45f7-a3d7-fadb243a5723 (lol)```
+```code
+api = 53d32b09-27b4-45f7-a3d7-fadb243a5723 (lol)
+```
 
