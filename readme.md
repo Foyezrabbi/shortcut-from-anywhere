@@ -1,13 +1,13 @@
-<p>pipreqs --encoding=utf8<\p>
+pipreqs --encoding=utf8
 
-<p>pyinstaller --onefile main.py<\p>
+pyinstaller --onefile main.py
 
-<p>python -m venv <p>
+python -m venv <p>
 
-<p>.\venv\Scripts\activate<\p>
+.\venv\Scripts\activate
 
 
-<p>infiniterabbiex@gmail.com
+infiniterabbiex@gmail.com
 
-<p>api = 53d32b09-27b4-45f7-a3d7-fadb243a5723 (lol)
+```api = 53d32b09-27b4-45f7-a3d7-fadb243a5723 (lol)```
 
