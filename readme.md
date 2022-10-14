@@ -1,5 +1,6 @@
 pipreqs --encoding=utf8
 pyinstaller --onefile main.py
+python -m venv 
 .\venv\Scripts\activate
 
 infiniterabbiex@gmail.com
