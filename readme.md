@@ -27,16 +27,9 @@ lol = AIzaSyCmrGqmjx-QSD_3nq3-bZ6xz1wtTO_Jv8s
 ```
 
 ```code
-
+pip install https://github.com/<username>/<repo>/archive/master.zip
 ```
 
 ```code
 
 ```
-
-https://drive.google.com/file/d/11T4vxX0hSOzzmRwCJunnHAmmm8hcqpuG/view?usp=sharing
-https://drive.google.com/drive/folders/1QUkGDmv39Jek-zCPwG_7UQ4XT-JKAza7?usp=sharing
-
-https://drive.google.com/drive/folders/1Tt2-9EOOTuzj8g18BkCv2F4Ri2Wj-ztC?usp=sharing
-
-https://drive.google.com/file/d/1QBeVMjhOb8Z92lQIxNIzME-JzM8rvaYO/view?usp=sharing
