@@ -7,7 +7,7 @@ pyinstaller --onefile main.py
 ```
 
 ```code
-python -m venv <p>
+python -m venv venv
 ```
 
 ```code
@@ -31,5 +31,5 @@ pip install https://github.com/<username>/<repo>/archive/master.zip
 ```
 
 ```code
-
+source venv/bin/activate
 ```
